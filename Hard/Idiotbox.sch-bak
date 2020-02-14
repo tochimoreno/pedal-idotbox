@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Idiotbox-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -7,7 +8,7 @@ Sheet 1 1
 Title "Idiotbox-Blowerbox"
 Date "2019-12-18"
 Rev "0.1"
-Comp ""
+Comp "TCH"
 Comment1 "http://tagboardeffects.blogspot.com/"
 Comment2 ""
 Comment3 ""
